@@ -21,3 +21,7 @@ React, Vite, TailwindCSS, Python, Streamlit, ML
 ## 📌 Статус
 ✅ Проект инициализирован  
 🔄 Ведётся разработка MVP
+
+
+https://www.canva.com/design/DAG2LzC2LuY/uMJc2nz0qHWZLHmWsrHwYA/edit?utm_content=DAG2LzC2LuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Презентация Idris Ai от команды sabina.csv
