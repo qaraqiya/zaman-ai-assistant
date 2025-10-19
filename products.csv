@@ -1,0 +1,51 @@
+﻿product_id,product_name,category,profit_type,term_months,risk_level,min_income,max_range
+1,Healthcare Plan 1,healthcare,Fixed markup,36,High,498530,1395854
+2,Business Plan 2,business,Profit share,6,Low,463626,3207396
+3,Auto Plan 3,auto,Fixed markup,12,Medium,264296,6337087
+4,Charity Plan 4,charity,Fixed markup,18,Low,17527,109256
+5,Healthcare Plan 5,healthcare,Fixed markup,60,High,10590,4552530
+6,Personal_needs Plan 6,personal_needs,Fixed markup,24,Low,493202,97605
+7,Education Plan 7,education,None,36,Low,466789,674827
+8,Имущество Plan 8,имущество,Profit share,12,High,297641,10885243
+9,Имущество Plan 9,имущество,Fixed markup,6,Low,511824,22462455
+10,Charity Plan 10,charity,Profit share,36,High,113125,72360
+11,Personal_needs Plan 11,personal_needs,None,12,Low,14039,124659
+12,Personal_needs Plan 12,personal_needs,Profit share,12,Low,378698,266618
+13,Personal_needs Plan 13,personal_needs,Fixed markup,6,Low,284646,168208
+14,Education Plan 14,education,None,0,Low,513765,752615
+15,Travel Plan 15,travel,Profit share,18,High,580939,418175
+16,Имущество Plan 16,имущество,Fixed markup,0,Low,582878,5115075
+17,Auto Plan 17,auto,None,6,Low,121366,1341719
+18,Charity Plan 18,charity,Fixed markup,18,Low,38992,89035
+19,Personal_needs Plan 19,personal_needs,Profit share,36,High,204760,339042
+20,Auto Plan 20,auto,Profit share,12,High,132598,2417323
+21,Charity Plan 21,charity,Profit share,48,High,349908,36654
+22,Имущество Plan 22,имущество,None,24,Low,424347,42549327
+23,Auto Plan 23,auto,Profit share,12,High,599646,7042353
+24,Personal_needs Plan 24,personal_needs,None,6,Low,52240,180934
+25,Business Plan 25,business,None,0,Low,380026,17092102
+26,Healthcare Plan 26,healthcare,None,6,Low,85297,2986109
+27,Business Plan 27,business,Fixed markup,48,High,212131,16216338
+28,Имущество Plan 28,имущество,Profit share,6,Low,507693,23814346
+29,Business Plan 29,business,None,0,Low,208413,17261376
+30,Travel Plan 30,travel,Fixed markup,12,High,225129,1975823
+31,Business Plan 31,business,Profit share,60,High,471683,3402005
+32,Auto Plan 32,auto,None,48,Low,131487,8467647
+33,Personal_needs Plan 33,personal_needs,Profit share,6,Low,538246,496582
+34,Имущество Plan 34,имущество,Fixed markup,24,High,430047,18437531
+35,Business Plan 35,business,Fixed markup,12,High,29715,5202379
+36,Charity Plan 36,charity,None,24,Low,229542,181233
+37,Business Plan 37,business,Profit share,0,Low,299195,9560004
+38,Travel Plan 38,travel,None,0,Low,557090,1726108
+39,Travel Plan 39,travel,Profit share,18,High,194507,1868457
+40,Education Plan 40,education,Fixed markup,36,High,306977,2792380
+41,Имущество Plan 41,имущество,None,36,Low,373739,15120667
+42,Auto Plan 42,auto,None,60,Low,410637,6219247
+43,Personal_needs Plan 43,personal_needs,Profit share,48,High,254293,260864
+44,Healthcare Plan 44,healthcare,Fixed markup,0,Low,75575,2087386
+45,Имущество Plan 45,имущество,None,6,Low,111539,41325000
+46,Personal_needs Plan 46,personal_needs,None,48,Low,526830,492292
+47,Personal_needs Plan 47,personal_needs,None,60,Low,381410,251584
+48,Имущество Plan 48,имущество,None,24,Low,528565,29636001
+49,Business Plan 49,business,Profit share,6,Low,202742,7114268
+50,Charity Plan 50,charity,None,60,Low,20803,98295
